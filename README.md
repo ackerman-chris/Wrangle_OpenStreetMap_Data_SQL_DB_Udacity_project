@@ -1,2 +1,1 @@
-# Wrangle_OpenStreetMap_Data_SQL_DB_Udacity_project
-C750
+# Wrangle_OpenStreetMap_Data-C750
