@@ -1,0 +1,15 @@
+Resources and References for Wrangle OpenStreetMap Project:
+
+https://github.com/jeswingeorge/Wrangle-Openstreetmap-data
+https://github.com/anilsai/Wrangle-OpenStreetMap-Data-SQL-database-Udacity-project
+https://github.com/gauravansal/Wrangle-OpenStreetMap-Data/blob/master/Wrangle%20OpenStreetMap%20Data.ipynb
+https://github.com/Zhenmao/udacity-dand-p3-wrangle-openstreetmap-data/blob/master/udacity-dand-p3-wrangle-openstreetmap-data.ipynb
+https://github.com/jasonicarter/DAND_OpenStreetMap_Data_MongoDB/tree/master/src
+https://github.com/wblakecannon/udacity-dand/tree/master/4-Data-Wrangling/L12-Case-Study-OpenStreetMap-Data
+#Used for help on data.py function
+
+
+https://www.w3schools.com/sql/default.asp
+http://wiki.openstreetmap.org/wiki/Map_Features
+http://wiki.openstreetmap.org/wiki/OSM_XML
+#Links
